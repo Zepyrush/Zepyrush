@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Zepyrush/Zepyrush/blob/main/welcome%20to%20my%20Github%20profile.gif" alt="logo"/>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Pedro Al Buchori</h1>
