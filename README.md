@@ -9,6 +9,7 @@
 <img align="right" alt="coding" height="250" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExancwNjVxNTNpdGlyYTV5Yzd1cGdqYm5hOGttNjd5bGU5b3M0NDZqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🌱 I’m currently learning **React,Flutter/Dart,Kotlin**
+- ⚡ Fun fact **I like listening to old songs💕🎵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
