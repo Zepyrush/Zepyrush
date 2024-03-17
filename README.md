@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pedro Al Buchori</h1>
-<h3 align="center" style="text-align: left;">Halo!👋 Saya Sebagai seorang programmer pemula, saya selalu mencari kesempatan untuk memperdalam pengetahuan saya dalam pemrograman. Keinginan saya untuk terus belajar mendorong saya menuju cita-cita menjadi software engineer yang handal.</h3>
+<h3 align="center" style="text-align: left;">Halo!(•_•) Sebagai seorang programmer pemula, saya selalu mencari kesempatan untuk memperdalam pengetahuan saya dalam pemrograman. Keinginan saya untuk terus belajar mendorong saya menuju cita-cita menjadi software engineer yang handal(⌐■_■).</h3>
 
 <br>
 
